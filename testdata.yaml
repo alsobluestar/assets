@@ -1,0 +1,41 @@
+todos:
+  - datetime: 2023-08-15 10:00
+    title: Buy groceries
+    description: Purchase items for the week, including fruits, vegetables, and milk.
+
+  - datetime: 2023-08-16 15:30
+    title: Finish presentation
+    description: Complete the slides for the upcoming project presentation.
+
+  - datetime: 2023-08-17 09:00
+    title: Call plumber
+    description: Schedule a plumber to fix the leaky faucet in the bathroom.
+
+  - datetime: 2023-08-18 13:00
+    title: Gym session
+    description: Hit the gym for a workout session focusing on strength training.
+
+  - datetime: 2023-08-19 18:00
+    title: Movie night
+    description: Watch the new movie that was released and prepare some popcorn.
+
+  - datetime: 2023-08-20 11:30
+    title: Read book
+    description: Spend time reading the novel you started last week.
+
+  - datetime: 2023-08-21 16:00
+    title: Plan weekend trip
+    description: Research and decide on the destination for the upcoming weekend getaway.
+
+  - datetime: 2023-08-22 12:00
+    title: Complete online course
+    description: Finish the remaining modules of the online programming course.
+
+  - datetime: 2023-08-23 14:00
+    title: Organize files
+    description: Sort and organize the files on your computer and backup important documents.
+
+  - datetime: 2023-08-24 17:30
+    title: Dinner with friends
+    description: Meet up with friends at the new restaurant downtown for dinner.
+    
